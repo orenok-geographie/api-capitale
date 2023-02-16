@@ -1,0 +1,790 @@
+﻿[
+    {
+        "artletnom": "de l'Afghanistan",
+        "CAPITALE": "Kaboul"
+    },
+    {
+        "artletnom": "de l'Afrique du Sud",
+        "CAPITALE": "Prétoria"
+    },
+    {
+        "artletnom": "de l'Albanie",
+        "CAPITALE": "Tirana"
+    },
+    {
+        "artletnom": "de l'Algérie",
+        "CAPITALE": "Alger"
+    },
+    {
+        "artletnom": "de l'Allemagne",
+        "CAPITALE": "Berlin"
+    },
+    {
+        "artletnom": "de l'Andorre",
+        "CAPITALE": "Andorre-la-Vieille"
+    },
+    {
+        "artletnom": "de l'Angola",
+        "CAPITALE": "Luanda"
+    },
+    {
+        "artletnom": "Saint John's",
+        "CAPITALE": ""
+    },
+    {
+        "artletnom": "de l'Arabie saoudite",
+        "CAPITALE": "Riyad"
+    },
+    {
+        "artletnom": "de l'Argentine",
+        "CAPITALE": "Buenos Aires"
+    },
+    {
+        "artletnom": "de l'Arménie",
+        "CAPITALE": "Erevan"
+    },
+    {
+        "artletnom": "de l'Australie",
+        "CAPITALE": "Canberra"
+    },
+    {
+        "artletnom": "de l'Autriche",
+        "CAPITALE": "Vienne"
+    },
+    {
+        "artletnom": "de l'Azerbaïdjan",
+        "CAPITALE": "Bakou"
+    },
+    {
+        "artletnom": "des Bahamas",
+        "CAPITALE": "Nassau"
+    },
+    {
+        "artletnom": "du Bahreïn",
+        "CAPITALE": "Manama"
+    },
+    {
+        "artletnom": "du Bangladesh",
+        "CAPITALE": "Dacca"
+    },
+    {
+        "artletnom": "de la Barbade",
+        "CAPITALE": "Bridgetown"
+    },
+    {
+        "artletnom": "de la Belgique",
+        "CAPITALE": "Bruxelles"
+    },
+    {
+        "artletnom": "du Bélize",
+        "CAPITALE": "Belmopan"
+    },
+    {
+        "artletnom": "du Bénin",
+        "CAPITALE": "Porto-Novo"
+    },
+    {
+        "artletnom": "du Bhoutan",
+        "CAPITALE": "Thimphou"
+    },
+    {
+        "artletnom": "de la Biélorussie",
+        "CAPITALE": "Minsk"
+    },
+    {
+        "artletnom": "de la Birmanie",
+        "CAPITALE": "Naypyidaw"
+    },
+    {
+        "artletnom": "de la Bolivie",
+        "CAPITALE": "Sucre / La Paz"
+    },
+    {
+        "artletnom": "de la Bosnie-Herzégovine",
+        "CAPITALE": "Sarajevo"
+    },
+    {
+        "artletnom": "du Botswana",
+        "CAPITALE": "Gaborone"
+    },
+    {
+        "artletnom": "du Brésil",
+        "CAPITALE": "Brasilia"
+    },
+    {
+        "artletnom": "du Brunei",
+        "CAPITALE": "Bandar Seri Begawan"
+    },
+    {
+        "artletnom": "de la Bulgarie",
+        "CAPITALE": "Sofia"
+    },
+    {
+        "artletnom": "du Burkina",
+        "CAPITALE": "Ouagadougou"
+    },
+    {
+        "artletnom": "du Burundi",
+        "CAPITALE": "Gitega"
+    },
+    {
+        "artletnom": "du Cambodge",
+        "CAPITALE": "Phnom Penh"
+    },
+    {
+        "artletnom": "du Cameroun",
+        "CAPITALE": "Yaoundé"
+    },
+    {
+        "artletnom": "du Canada",
+        "CAPITALE": "Ottawa"
+    },
+    {
+        "artletnom": "du Cap-Vert",
+        "CAPITALE": "Praia"
+    },
+    {
+        "artletnom": "de la Centrafrique",
+        "CAPITALE": "Bangui"
+    },
+    {
+        "artletnom": "du Chili",
+        "CAPITALE": "Santiago"
+    },
+    {
+        "artletnom": "de la Chine",
+        "CAPITALE": "Pékin"
+    },
+    {
+        "artletnom": "Nicosie",
+        "CAPITALE": ""
+    },
+    {
+        "artletnom": "de la Colombie",
+        "CAPITALE": "Bogota"
+    },
+    {
+        "artletnom": "des Comores",
+        "CAPITALE": "Moroni"
+    },
+    {
+        "artletnom": "du Congo",
+        "CAPITALE": "Brazzaville"
+    },
+    {
+        "artletnom": "de la République démocratique du Congo",
+        "CAPITALE": "Kinshasa"
+    },
+    {
+        "artletnom": "des Îles Cook",
+        "CAPITALE": "Avarua"
+    },
+    {
+        "artletnom": "de la Corée du Nord",
+        "CAPITALE": "Pyongyang"
+    },
+    {
+        "artletnom": "de la Corée du Sud",
+        "CAPITALE": "Séoul"
+    },
+    {
+        "artletnom": "du Costa Rica",
+        "CAPITALE": "San José"
+    },
+    {
+        "artletnom": "de la Côte d'Ivoire",
+        "CAPITALE": "Yamoussoukro"
+    },
+    {
+        "artletnom": "de la Croatie",
+        "CAPITALE": "Zagreb"
+    },
+    {
+        "artletnom": "deCuba",
+        "CAPITALE": "La Havane"
+    },
+    {
+        "artletnom": "du Danemark",
+        "CAPITALE": "Copenhague"
+    },
+    {
+        "artletnom": "deDjibouti",
+        "CAPITALE": "Djibouti"
+    },
+    {
+        "artletnom": "de la République dominicaine",
+        "CAPITALE": "Saint-Domingue"
+    },
+    {
+        "artletnom": "de la Dominique",
+        "CAPITALE": "Roseau"
+    },
+    {
+        "artletnom": "de l'Égypte",
+        "CAPITALE": "Le Caire"
+    },
+    {
+        "artletnom": "des Émirats arabes unis",
+        "CAPITALE": "Abou Dabi"
+    },
+    {
+        "artletnom": "de l'Équateur",
+        "CAPITALE": "Quito"
+    },
+    {
+        "artletnom": "de l'Érythrée",
+        "CAPITALE": "Asmara"
+    },
+    {
+        "artletnom": "de l'Espagne",
+        "CAPITALE": "Madrid"
+    },
+    {
+        "artletnom": "de l'Estonie",
+        "CAPITALE": "Tallinn"
+    },
+    {
+        "artletnom": "de l'Eswatini",
+        "CAPITALE": "Mbabane et Lobamba"
+    },
+    {
+        "artletnom": "des États-Unis",
+        "CAPITALE": "Washington"
+    },
+    {
+        "artletnom": "de l'Éthiopie",
+        "CAPITALE": "Addis Abeba"
+    },
+    {
+        "artletnom": "des Fidji",
+        "CAPITALE": "Suva"
+    },
+    {
+        "artletnom": "de la Finlande",
+        "CAPITALE": "Helsinki"
+    },
+    {
+        "artletnom": "de la France",
+        "CAPITALE": "Paris"
+    },
+    {
+        "artletnom": "du Gabon",
+        "CAPITALE": "Libreville"
+    },
+    {
+        "artletnom": "de la Gambie",
+        "CAPITALE": "Banjul"
+    },
+    {
+        "artletnom": "de la Géorgie",
+        "CAPITALE": "Tbilissi"
+    },
+    {
+        "artletnom": "du Ghana",
+        "CAPITALE": "Accra"
+    },
+    {
+        "artletnom": "de la Grèce",
+        "CAPITALE": "Athènes"
+    },
+    {
+        "artletnom": "de la Grenade",
+        "CAPITALE": "Saint-Georges"
+    },
+    {
+        "artletnom": "du Guatémala",
+        "CAPITALE": "Guatémala"
+    },
+    {
+        "artletnom": "de la Guinée",
+        "CAPITALE": "Conakry"
+    },
+    {
+        "artletnom": "de la Guinée Équatoriale",
+        "CAPITALE": "Malabo"
+    },
+    {
+        "artletnom": "de la Guinée-Bissao",
+        "CAPITALE": "Bissao"
+    },
+    {
+        "artletnom": "du Guyana",
+        "CAPITALE": "Georgetown"
+    },
+    {
+        "artletnom": "d'Haïti",
+        "CAPITALE": "Port-au-Prince"
+    },
+    {
+        "artletnom": "du Honduras",
+        "CAPITALE": "Tégucigalpa"
+    },
+    {
+        "artletnom": "de la Hongrie",
+        "CAPITALE": "Budapest"
+    },
+    {
+        "artletnom": "de l'Inde",
+        "CAPITALE": "New Delhi"
+    },
+    {
+        "artletnom": "de l'Indonésie",
+        "CAPITALE": "Jakarta"
+    },
+    {
+        "artletnom": "de l'Irak",
+        "CAPITALE": "Bagdad"
+    },
+    {
+        "artletnom": "de l'Iran",
+        "CAPITALE": "Téhéran"
+    },
+    {
+        "artletnom": "de l'Irlande",
+        "CAPITALE": "Dublin"
+    },
+    {
+        "artletnom": "de l'Islande",
+        "CAPITALE": "Reykjavik"
+    },
+    {
+        "artletnom": "d'Israël",
+        "CAPITALE": ""
+    },
+    {
+        "artletnom": "de l'Italie",
+        "CAPITALE": "Rome"
+    },
+    {
+        "artletnom": "de la Jamaïque",
+        "CAPITALE": "Kingston"
+    },
+    {
+        "artletnom": "du Japon",
+        "CAPITALE": "Tokyo"
+    },
+    {
+        "artletnom": "de la Jordanie",
+        "CAPITALE": "Amman"
+    },
+    {
+        "artletnom": "du Kazakhstan",
+        "CAPITALE": "Nour-Soultan"
+    },
+    {
+        "artletnom": "du Kenya",
+        "CAPITALE": "Nairobi"
+    },
+    {
+        "artletnom": "du Kirghizstan",
+        "CAPITALE": "Bichkek"
+    },
+    {
+        "artletnom": "des Kiribati",
+        "CAPITALE": "Bairiki"
+    },
+    {
+        "artletnom": "du Kosovo",
+        "CAPITALE": "Pristina"
+    },
+    {
+        "artletnom": "du Koweït",
+        "CAPITALE": "Koweït"
+    },
+    {
+        "artletnom": "du Laos",
+        "CAPITALE": "Vientiane"
+    },
+    {
+        "artletnom": "du Lésotho",
+        "CAPITALE": "Maséru"
+    },
+    {
+        "artletnom": "de la Lettonie",
+        "CAPITALE": "Riga"
+    },
+    {
+        "artletnom": "du Liban",
+        "CAPITALE": "Beyrouth"
+    },
+    {
+        "artletnom": "du Libéria",
+        "CAPITALE": "Monrovia"
+    },
+    {
+        "artletnom": "de la Libye",
+        "CAPITALE": "Tripoli"
+    },
+    {
+        "artletnom": "du Liechtenstein",
+        "CAPITALE": "Vaduz"
+    },
+    {
+        "artletnom": "de la Lituanie",
+        "CAPITALE": "Vilnius"
+    },
+    {
+        "artletnom": "du Luxembourg",
+        "CAPITALE": "Luxembourg"
+    },
+    {
+        "artletnom": "de la Macédoine du Nord",
+        "CAPITALE": "Skopje"
+    },
+    {
+        "artletnom": "de Madagascar",
+        "CAPITALE": "Antananarivo (Tananarive)"
+    },
+    {
+        "artletnom": "de la Malaisie",
+        "CAPITALE": "Kuala Lumpur"
+    },
+    {
+        "artletnom": "du Malawi",
+        "CAPITALE": "Lilongwé"
+    },
+    {
+        "artletnom": "des Maldives",
+        "CAPITALE": "Malé"
+    },
+    {
+        "artletnom": "du Mali",
+        "CAPITALE": "Bamako"
+    },
+    {
+        "artletnom": "de Malte",
+        "CAPITALE": "La Valette"
+    },
+    {
+        "artletnom": "du Maroc",
+        "CAPITALE": "Rabat"
+    },
+    {
+        "artletnom": "des Îles Marshall",
+        "CAPITALE": "Delap-Uliga-Darrit"
+    },
+    {
+        "artletnom": "deMaurice",
+        "CAPITALE": "Port-Louis"
+    },
+    {
+        "artletnom": "de la Mauritanie",
+        "CAPITALE": "Nouakchott"
+    },
+    {
+        "artletnom": "du Mexique",
+        "CAPITALE": "Mexico"
+    },
+    {
+        "artletnom": "de la Micronésie",
+        "CAPITALE": "Palikir"
+    },
+    {
+        "artletnom": "de la Moldavie",
+        "CAPITALE": "Chisinau"
+    },
+    {
+        "artletnom": "deMonaco",
+        "CAPITALE": "Monaco"
+    },
+    {
+        "artletnom": "de la Mongolie",
+        "CAPITALE": "Oulan-Bator"
+    },
+    {
+        "artletnom": "du Monténégro",
+        "CAPITALE": "Podgorica"
+    },
+    {
+        "artletnom": "du Mozambique",
+        "CAPITALE": "Maputo"
+    },
+    {
+        "artletnom": "de la Namibie",
+        "CAPITALE": "Windhoek"
+    },
+    {
+        "artletnom": "deNauru",
+        "CAPITALE": "Yaren"
+    },
+    {
+        "artletnom": "du Népal",
+        "CAPITALE": "Katmandou"
+    },
+    {
+        "artletnom": "du Nicaragua",
+        "CAPITALE": "Managua"
+    },
+    {
+        "artletnom": "du Niger",
+        "CAPITALE": "Niamey"
+    },
+    {
+        "artletnom": "du Nigéria",
+        "CAPITALE": "Abuja"
+    },
+    {
+        "artletnom": "deNiue",
+        "CAPITALE": "Alofi"
+    },
+    {
+        "artletnom": "de la Norvège",
+        "CAPITALE": "Oslo"
+    },
+    {
+        "artletnom": "de la Nouvelle-Zélande",
+        "CAPITALE": "Wellington"
+    },
+    {
+        "artletnom": "d'Oman",
+        "CAPITALE": "Mascate"
+    },
+    {
+        "artletnom": "de l'Ouganda",
+        "CAPITALE": "Kampala"
+    },
+    {
+        "artletnom": "de l'Ouzbékistan",
+        "CAPITALE": "Tachkent"
+    },
+    {
+        "artletnom": "du Pakistan",
+        "CAPITALE": "Islamabad"
+    },
+    {
+        "artletnom": "des Palaos",
+        "CAPITALE": "Melekeok"
+    },
+    {
+        "artletnom": "du Panama",
+        "CAPITALE": "Panama"
+    },
+    {
+        "artletnom": "de la Papouasie-Nouvelle-Guinée",
+        "CAPITALE": "Port Moresby"
+    },
+    {
+        "artletnom": "du Paraguay",
+        "CAPITALE": "Assomption (Asuncion)"
+    },
+    {
+        "artletnom": "des Pays-Bas",
+        "CAPITALE": "Amsterdam"
+    },
+    {
+        "artletnom": "du Pérou",
+        "CAPITALE": "Lima"
+    },
+    {
+        "artletnom": "des Philippines",
+        "CAPITALE": "Manille"
+    },
+    {
+        "artletnom": "de la Pologne",
+        "CAPITALE": "Varsovie"
+    },
+    {
+        "artletnom": "du Portugal",
+        "CAPITALE": "Lisbonne"
+    },
+    {
+        "artletnom": "du Qatar",
+        "CAPITALE": "Doha"
+    },
+    {
+        "artletnom": "de la Roumanie",
+        "CAPITALE": "Bucarest"
+    },
+    {
+        "artletnom": "du Royaume-Uni",
+        "CAPITALE": "Londres"
+    },
+    {
+        "artletnom": "de la Russie",
+        "CAPITALE": "Moscou"
+    },
+    {
+        "artletnom": "du Rwanda",
+        "CAPITALE": "Kigali"
+    },
+    {
+        "artletnom": "de Saint-Christophe-et-Niévès",
+        "CAPITALE": "Basseterre"
+    },
+    {
+        "artletnom": "de Sainte-Lucie",
+        "CAPITALE": "Castries"
+    },
+    {
+        "artletnom": "de Saint-Marin",
+        "CAPITALE": "Saint-Marin"
+    },
+    {
+        "artletnom": "de Saint-Vincent-et-les-Grenadines",
+        "CAPITALE": "Kingstown"
+    },
+    {
+        "artletnom": "des Salomon",
+        "CAPITALE": "Honiara"
+    },
+    {
+        "artletnom": "du Salvador",
+        "CAPITALE": "San Salvador"
+    },
+    {
+        "artletnom": "des Samoa",
+        "CAPITALE": "Apia"
+    },
+    {
+        "artletnom": "de Sao Tomé-et-Principe",
+        "CAPITALE": "Sao Tomé"
+    },
+    {
+        "artletnom": "du Sénégal",
+        "CAPITALE": "Dakar"
+    },
+    {
+        "artletnom": "de la Serbie",
+        "CAPITALE": "Belgrade"
+    },
+    {
+        "artletnom": "des Seychelles",
+        "CAPITALE": "Victoria"
+    },
+    {
+        "artletnom": "de la Sierra Leone",
+        "CAPITALE": "Freetown"
+    },
+    {
+        "artletnom": "deSingapour",
+        "CAPITALE": "Singapour"
+    },
+    {
+        "artletnom": "de la Slovaquie",
+        "CAPITALE": "Bratislava"
+    },
+    {
+        "artletnom": "de la Slovénie",
+        "CAPITALE": "Ljubljana"
+    },
+    {
+        "artletnom": "de la Somalie",
+        "CAPITALE": "Mogadiscio"
+    },
+    {
+        "artletnom": "du Soudan",
+        "CAPITALE": "Khartoum"
+    },
+    {
+        "artletnom": "du Soudan du Sud",
+        "CAPITALE": "Djouba"
+    },
+    {
+        "artletnom": "du Sri Lanka",
+        "CAPITALE": "Sri Jayewardenepura-Kotte"
+    },
+    {
+        "artletnom": "de la Suède",
+        "CAPITALE": "Stockholm"
+    },
+    {
+        "artletnom": "de la Suisse",
+        "CAPITALE": "Berne"
+    },
+    {
+        "artletnom": "du Suriname",
+        "CAPITALE": "Paramaribo"
+    },
+    {
+        "artletnom": "de la Syrie",
+        "CAPITALE": "Damas"
+    },
+    {
+        "artletnom": "du Tadjikistan",
+        "CAPITALE": "Douchanbé"
+    },
+    {
+        "artletnom": "de la Tanzanie",
+        "CAPITALE": "Dodoma"
+    },
+    {
+        "artletnom": "du Tchad",
+        "CAPITALE": "Ndjamena"
+    },
+    {
+        "artletnom": "de la Tchéquie",
+        "CAPITALE": "Prague"
+    },
+    {
+        "artletnom": "de la Thaïlande",
+        "CAPITALE": "Bangkok"
+    },
+    {
+        "artletnom": "du Timor oriental",
+        "CAPITALE": "Dili"
+    },
+    {
+        "artletnom": "du Togo",
+        "CAPITALE": "Lomé"
+    },
+    {
+        "artletnom": "des Tonga",
+        "CAPITALE": "Nuku'alofa"
+    },
+    {
+        "artletnom": "de la Trinité-et-Tobago",
+        "CAPITALE": "Port-d'Espagne (Port of Spain)"
+    },
+    {
+        "artletnom": "de la Tunisie",
+        "CAPITALE": "Tunis"
+    },
+    {
+        "artletnom": "du Turkménistan",
+        "CAPITALE": "Achgabat"
+    },
+    {
+        "artletnom": "de la Turquie",
+        "CAPITALE": "Ankara"
+    },
+    {
+        "artletnom": "des Tuvalu",
+        "CAPITALE": "Vaiaku"
+    },
+    {
+        "artletnom": "de l'Ukraine",
+        "CAPITALE": "Kiev"
+    },
+    {
+        "artletnom": "de l'Uruguay",
+        "CAPITALE": "Montévidéo"
+    },
+    {
+        "artletnom": "du  Vanuatu",
+        "CAPITALE": "Port-Vila"
+    },
+    {
+        "artletnom": "du  Vatican",
+        "CAPITALE": ""
+    },
+    {
+        "artletnom": "du Vénézuéla",
+        "CAPITALE": "Caracas"
+    },
+    {
+        "artletnom": "du Vietnam",
+        "CAPITALE": "Hanoï"
+    },
+    {
+        "artletnom": "du Yémen",
+        "CAPITALE": "Sanaa"
+    },
+    {
+        "artletnom": "de la Zambie",
+        "CAPITALE": "Lusaka"
+    },
+    {
+        "artletnom": "du Zimbabwé",
+        "CAPITALE": "Hararé"
+    }
+]
